@@ -10,7 +10,7 @@ int main (){
     ergebnis=1;
     printf("Bitte geben Sie ein Wert für n ein\n\n");
     scanf("%d", &n);
-    
+	//Hallo    
     for(int i=1; i<=n; i++){
         ergebnis=ergebnis*i;
     }
